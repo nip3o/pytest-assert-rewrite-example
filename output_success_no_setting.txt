@@ -1,4 +1,4 @@
-(.venv) niclas@fox ~/d/pytest-test [1]> env PYTEST_DEBUG=enable pytest
+> env PYTEST_DEBUG=enable pytest
   pytest_plugin_registered [hook]
       manager: <_pytest.config.PytestPluginManager object at 0x10f274d90>
       plugin: <_pytest.config.Config object at 0x10f54b150>
